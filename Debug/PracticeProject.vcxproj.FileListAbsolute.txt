@@ -1,0 +1,2 @@
+C:\Users\stive\Desktop\Education\Introduction to Programming C++\sdsds\PracticeProject\Debug\PracticeProject.exe
+C:\Users\stive\Desktop\Education\Introduction to Programming C++\sdsds\PracticeProject\Debug\PracticeProject.pdb

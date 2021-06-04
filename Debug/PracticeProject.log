@@ -1,0 +1,3 @@
+﻿  PracticeProject.cpp
+C:\Users\stive\Desktop\Education\Introduction to Programming C++\sdsds\PracticeProject\PracticeProject.cpp(590,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PracticeProject.vcxproj -> C:\Users\stive\Desktop\Education\Introduction to Programming C++\sdsds\PracticeProject\Debug\PracticeProject.exe
